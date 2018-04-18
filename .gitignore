@@ -49,3 +49,6 @@ Temporary Items
 # Executable and object files
 *.exe
 *.o
+*.out
+Executable
+Executable.dSYM
