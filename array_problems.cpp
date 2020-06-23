@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 #include<limits.h>
+#include <cstdlib>
 
 int max(int a, int b){
 	return a > b ? a : b;
